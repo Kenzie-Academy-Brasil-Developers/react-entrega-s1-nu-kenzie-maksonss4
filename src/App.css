@@ -47,16 +47,14 @@ header{
   display: flex;
   flex-direction: column;
   gap: 10px;
-  /* border: 2px solid #E9ECEF;
-  border-radius: 4px; */
   padding: 5px;
   margin-bottom: 15px;
 }
 
-@media (min-width: 700px){
+@media (min-width: 870px){
   .mainHome{
     flex-direction: row;
-    padding: 0 55px;
+    padding: 0 150px;
     justify-content: space-between;
   }
 }

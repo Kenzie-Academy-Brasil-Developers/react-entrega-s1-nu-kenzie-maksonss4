@@ -52,7 +52,7 @@ export const Container = styled.main`
         position: absolute;        
     }
 
-    @media (min-width: 700px){
+    @media (min-width: 870px){
         &{
             flex-direction: row;
         }

@@ -26,8 +26,8 @@ figure{
     background-color: #fd3780af;
 }
 
-@media (min-width: 700px){
+@media (min-width: 870px){
     header{
-        padding: 0 55px;
+        padding: 0 150px;
     }
 }

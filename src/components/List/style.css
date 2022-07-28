@@ -9,6 +9,8 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    background-color: #e9ecef60;
+    padding: 10px;
 }
 
 .divSemLancamentos h3{
