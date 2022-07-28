@@ -1,0 +1,16 @@
+.divTotalMoney{
+    border: 1px solid #dbdbdb65;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.divTotalMoney h3{
+    margin: 0;
+}
+
+.divSaldo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}

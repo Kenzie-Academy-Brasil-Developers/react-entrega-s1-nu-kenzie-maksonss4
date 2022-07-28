@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.divSemLancamentos{
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.divSemLancamentos h3{
+    margin: 0;
+}
+
+.divSemLancamentos img{
+    width: 100%;
+}

@@ -1,0 +1,39 @@
+.divFilters{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.divFilters h3{
+    margin: 0;
+    font-size: 1rem;
+}
+
+.divFilters div{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.divFilters button{
+    padding: 5px;
+    margin: 0;
+    border: 0;
+    height: max-content;
+    background-color: #E9ECEF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.divFilters button:focus{
+    background-color: #FD377E;
+    color: #fff;
+    transition: .5s;
+}
+
+.divFilters button:hover{
+    transition: .5s;
+    background-color: #fd3780af;
+}

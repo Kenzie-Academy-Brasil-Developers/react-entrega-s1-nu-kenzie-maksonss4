@@ -1,0 +1,43 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid #E9ECEF;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+input, select{
+    height: 1.7rem;
+    background-color: #E9ECEF;
+    border: 0;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.divValueType{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.buttonAddTransacao{
+    border: 0;
+    background: #FD377E;
+    border-radius: 5px;
+    width: max-content;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.divLabel{
+    display: flex;
+    flex-direction: column;
+}
+
+.centralizarBotao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
